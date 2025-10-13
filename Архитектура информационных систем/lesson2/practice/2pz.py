@@ -20,6 +20,6 @@ else:
     res = 0
     print("Неизвестный оператор")
     exit()
-
+#
 print("Результат: " + str(res))
 print(type(res))

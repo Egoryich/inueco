@@ -18,7 +18,7 @@ students = {
         "group": "ИТ-102"
     }
 }
-
+  #
 # 1. Вывод информации о всех студентах
 print("=== Задание 1: Информация о студентах ===")
 for student_id, info in students.items():
